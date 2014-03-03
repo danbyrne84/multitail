@@ -1,0 +1,10 @@
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\bin\Release\MultiTail.exe.config
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\bin\Release\MultiTail.exe.manifest
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\bin\Release\MultiTail.application
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\bin\Release\MultiTail.exe
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\bin\Release\MultiTail.pdb
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\obj\Release\MultiTail.exe.manifest
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\obj\Release\MultiTail.application
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\obj\Release\MultiTail.exe
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\obj\Release\MultiTail.pdb
+C:\Users\daniel.byrne\documents\visual studio 2012\Projects\MultiTail\MultiTail\obj\Release\MultiTail.csprojResolveAssemblyReference.cache
